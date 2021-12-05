@@ -1,0 +1,484 @@
+/* Large device part start */
+
+@media(max-width:1199px){
+
+
+}
+
+/* Large device part end */
+
+/* Medium device part start */
+
+@media(max-width:991px){
+    .navbar-light .navbar-nav .nav-link {
+       
+    }
+    .navbar-brand {
+       
+    }
+    .btn-custom {
+    
+    }
+    .bg{
+       
+    }
+
+    .template-heading h1{
+       
+    }
+    
+
+    .pricing-tbl {
+        border: 1px solid;
+        padding: 20px 30px;
+    }
+    .tbl-border{
+        border-left: 0px;
+        border-right: 0px;
+    }
+    .pricing-tbl h6 {
+        font-size: 16px;
+    }
+    .pricing-tbl h1{
+        font-size: 33px;
+    }
+    .pricing-tbl span{
+        font-size: 15px;
+    }
+    .pricing-tbl p{
+        font-size: 14px;
+        margin-top: 20px;
+    }
+    
+    .btn-price{
+        /* padding: 5px 20px;
+        margin-top: 20px;
+        font-size: 10px; */
+        
+            padding: 5px 15px;
+            margin-top: 20px;
+            font-size: 11px;
+        
+    }
+    .download h1{
+        font-size: 23px;
+        font-weight: 500;
+    }
+    .download p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .btn-download{
+        padding: 7px 15px;
+        font-size: 11px;
+    }
+}
+
+/* Medium device part end */
+
+/* Small device part start */
+
+@media(max-width:767px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    .btn-custom {
+     width:26%;
+    }
+    .bg{
+        min-height: 65vh;
+    }
+    .banner-content h1{
+        font-size: 30px;
+        font-weight: 500;
+    }
+    .banner-content p{
+        font-weight: 400;
+    }
+    .last-item{
+        padding-top: 23px;
+    }
+    .template-heading h1{
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .hand img{
+        width: 50%;
+    }
+    .hand h2{
+        text-align: center;
+        font-size: 25px;
+        font-weight: 500;
+        padding-top: 5px;
+    }
+    .hand ul li i{
+        font-size: 20px;
+        text-align: center;
+    }
+    .hand p{
+        font-size: 13px;
+        font-weight: 400;
+        margin: 0px;
+        padding: 0px;
+        padding-bottom: 15px;
+        
+    }
+    .map {
+        background-size: 330px;
+        padding: 30px 0px;
+    }
+    .map h2{
+        font-size: 22px;
+        font-weight: 500;
+    }
+    
+    .map p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .pricing-heading h1 {
+        font-size: 25px;
+    }
+    .pricing-heading p {
+        font-size: 14px;
+    }
+
+    .pricing-tbl {
+        border: 1px solid;
+        padding: 15px 20px;
+    }
+    .tbl-border{
+        border-left: 0px;
+        border-right: 0px;
+    }
+    .pricing-tbl h6 {
+        font-size: 15px;
+    }
+    .pricing-tbl h1{
+        font-size: 27px;
+    }
+    .pricing-tbl span{
+        font-size: 14px;
+    }
+    .pricing-tbl p{
+        font-size: 13px;
+        margin-top: 20px;
+    }
+    
+    .btn-price{
+        padding: 5px 15px;
+        margin-top: 20px;
+        font-size: 8px;
+    }
+
+    .plan h3{
+        font-size: 25px;
+    }
+    .plans-content ul li i{
+        font-size: 19px;
+    }
+    
+    .plans-content ul li  p{
+        font-size: 13px;
+        font-weight: 400;       
+    }
+    .plan-bottom h3 {
+        font-size: 27px;
+        font-weight: 500;
+       
+    }
+    .plan-bottom p {
+        font-size: 14px;
+        font-weight: 400;
+        padding-top: 15px;
+        padding-bottom: 20px;          
+    }
+    .plan-bottom b {
+        font-size: 16px;           
+        font-weight: 600;
+    } 
+    .plan-tp{
+        padding-top: 15px;
+    }
+
+    .download h1{
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .download p{
+        font-size: 13px;
+        font-weight: 400;
+    }
+    .btn-download{
+        padding: 2px 10px;
+        font-size: 10px;
+    }
+}
+/* Small device part end */
+
+/* Extra small device part start */
+
+@media(max-width:575px){
+    .phone img{
+        margin-left: 5px;
+        width: 50%;
+    }
+   
+    .content p{
+        
+        font-size: 10px;
+        
+    }
+    .content h6{
+       
+        font-size: 13px;
+        
+    }
+        .logo img{
+           
+        }
+
+        .navbar-light .navbar-nav .nav-link {
+           
+            
+        }
+        .navbar-brand {
+          
+        }
+        .contact-info {
+            
+        }
+        .contact-info i {
+            
+        }
+        .contact-info p{
+           
+        }
+        
+        .btn-custom {
+       
+        }
+        .bg{
+            min-height: 50vh;
+        }
+        .banner-content h1{
+           
+        }
+        .banner-content p{
+          
+        }
+
+        .btn-banner{
+           
+        }
+
+
+        .feature{
+            
+        }
+
+        .heading h1{
+            
+            
+        }
+        .heading p{
+            
+           
+            
+        }
+        .last-item{
+           
+        }
+
+        .feature-content h4{
+           
+        }
+
+        .feature-content p{
+           
+        }
+
+        .feature-content-bottom ul li h4 {
+            color: #0f5f5c;
+            font-size: 15px;
+            font-weight: 500;
+        }
+
+        .feature-content-bottom p{
+            font-size: 13px;
+            font-weight: 400;
+        }
+
+        .template-heading h1{
+            font-size: 18px;
+            font-weight: 500;
+        }
+        .template-heading p{
+            font-size: 13px;
+            font-weight: 400;
+            padding: 5px 0px;
+        }
+        .hand img{
+            width: 50%;
+        }
+        .hand h2{
+            text-align: center;
+            font-size: 22px;
+            font-weight: 500;
+            padding-top: 5px;
+        }
+    
+        .hand p{
+            font-size: 13px;
+            font-weight: 400;
+            margin: 0px;
+            padding: 0px;
+            padding-bottom: 15px;
+        }
+        .testimonial-content{
+            text-align: center;
+        }
+
+        .women{
+            text-align: center!important;
+        }
+
+        .testimonial-content h5{
+            font-size: 15px;
+            font-weight: 400;
+        }
+        .testimonial-content h6{
+            font-size: 14px;
+        }
+        .testimonial-content p{
+            font-size: 13px;
+        }
+        .map {
+            background-size: 270px;
+            padding: 30px 0px;
+        }
+        .map h2{
+            font-size: 18px;
+            font-weight: 500;
+        }
+        
+        .map p{
+            font-size: 13px;
+            font-weight: 400;
+        }
+        .pricing-heading h1 {
+            font-size: 22px;
+        }
+        .pricing-heading p {
+            font-size: 13px;
+            font-weight: 400;
+        }
+        .pricing-tbl {
+            border: 1px solid;
+            padding: 15px 20px;
+        }
+        .tbl-border{
+            border-left: 0px;
+        }
+        .pricing-tbl h6 {
+            font-size: 15px;
+        }
+        .pricing-tbl h1{
+            font-size: 27px;
+        }
+        .pricing-tbl span{
+            font-size: 14px;
+        }
+        .pricing-tbl p{
+            font-size: 13px;
+            margin-top: 20px;
+        }
+        
+        .btn-price{
+            padding: 5px 15px;
+            margin-top: 20px;
+            font-size: 8px;
+        }
+
+        .plan h3{
+            font-size: 19px;
+        }
+        .plans-content ul li i{
+            font-size: 18px;
+            text-align: center;
+        }
+        
+        .plans-content ul li  p{
+            font-size: 13px;
+            font-weight: 400;
+            text-align: center;
+        }
+        .plans-content{
+            
+        }
+        .plan-bottom h3 {
+            font-size: 25px;
+            font-weight: 500;
+           
+        }
+        .plan-bottom p {
+            font-size: 13px;
+            font-weight: 400;
+            padding-top: 10px;
+            padding-bottom: 15px;          
+        }
+        .plan-bottom b {
+            font-size: 16px;           
+            font-weight: 600;
+        } 
+        .hg{
+            height: 25vh;
+        }
+        .download{
+            text-align: center;
+        }
+        .downd{
+            text-align: center!important;
+        }
+        .download h1{
+            font-size: 15px;
+            font-weight: 500;
+        }
+        
+        .address p{
+            margin: 0px;
+            font-size: 13px;
+            margin-bottom: 8px;
+        }
+        .term{
+            text-align: center;
+        }
+        .term p{
+            margin: 13px;
+            
+        }
+        .social-icon ul {
+            justify-content: center;
+        }
+        .social-icon ul li {
+            margin-left: 10px;
+        }
+        .social-icon ul li a {
+            color: #fff;
+            background: #55acee;
+            padding : 3px 5px;
+            font-size: 14px;
+            border: 1px solid #55acee;
+            border-radius: 50%;
+        }
+        .social-icon ul li a:hover {
+            background: #3b5998;
+            font-size: 14px;
+            border: 1px solid #3b5998;
+            color: #fff;
+        }
+    }
+
+
+
+/* Extra small device part start */
